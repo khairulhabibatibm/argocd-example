@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: cndt-go
+description: Chart to configure ArgoCD with the cndt-go project and its applications
